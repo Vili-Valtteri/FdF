@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/Vili-Valtteri/Fractol.git fdf
+git clone https://github.com/Vili-Valtteri/FdF.git fdf
 
 2. Change your working directory to the cloned repository:
 
