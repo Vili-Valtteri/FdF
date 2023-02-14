@@ -1,8 +1,4 @@
 
-## Upcoming Changes
-
-Sources for the project will be added on 14.02.2023. Stay tuned!
-
 # FdF - Wire Mesh Visualizer
 
 FdF (Fil de Fer) is a 3D mesh visualizer that takes a wire mesh as input and generates a graphical representation of it. This project uses the minilibx library for graphical representation and comes bundled with the source code for the library.
